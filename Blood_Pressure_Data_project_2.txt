@@ -1,0 +1,17 @@
+Mouse ID				Basal 1			Basal 2			Basal 3			Basal 4			E4.5			E6.5			E8.5			E10.5			E12.5			E14.5			E16.5			E18.5		
+Mouse Number	Lab Identifier	Earmark	Genotype	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces	Systolic Blood Pressure (mmHg)	Pulse (bpm)	Valid Traces
+CAYW206.1b	Z7824	83	WT	94	685	7	110	678	12	119	661	10	119	683	7	96	760	9	73	753	11	119	735	11	66	738	6	73	738	13	90	728	10	98	655	13	95	685	9
+CAYW205.1e	Z7827	30	KO	94	718	10	100	709	10	76	772	12	87	743	8													98	759	12	78	758	12						
+CAYW205.1f	Z7828	1	KO	114	734	7	91	756	12	107	747	9	52	726	12	103	736	13	120	751	9	94	775	10	94	768	15	83	759	9	77	778	10	99	758	11	77	754	8
+CAYW205.1g	Z7829	10	KO	76	794	10	69	767	7	78	783	6	81	750	6	100	754	11	89	796	12	115	772	5	97	761	12	101	759	12	119	796	11	87	732	10	110	737	10
+CAYW201.1a	Z7830	8	WT	67	750	10	66	730	10	111	751	6	104	776	6	115	722	13	113	762	13	122	762	8	105	777	10	104	769	11	120	762	10	99	747	6	134	744	5
+CAYW201.1b	Z7831	80	WT	78	752	5	87	763	10	95	751	9	117	721	8	89	753	12										83	768	11	88	770	12	89	707	11	80	664	11
+CAYW201.1c	Z7832	11	WT	87	670	12	104	648	5	125	702	9	114	671	12	97	736	10	108	688	12	133	728	12	70	729	12	128	714	10	109	700	11	91	695	13	84	703	9
+CAYW201.1d	Z7833	33	WT	109	699	9	96	740	12	99	711	8	117	720	7																						108	690	10
+CAYW204.1a	Z7908	3	KO	72	681	12	119	674	12	123	704	4	120	673	12	105	731	11	70	718	13	78	700	13	87	719	12	97	695	9	102	703	10	89	735	9	78	708	8
+CAYW204.1b	Z7909	30	KO	86	707	11	109	738	10	139	736	9	122	782	3	103	749	11	140	747	7	101	754	12	99	758	12	101	782	10	107	779	9	92	750	8	136	738	8
+CAYW204.1c	Z7910	1	KO	84	695	12	94	704	11	102	679	7	96	733	7	98	743	11	103	690	6	95	724	11	132	708	10	57	739	10	99	728	13	106	725	13	120	727	11
+CAYW206.2d	Z7915	80	WT	84	723	8	103	720	8	120	741	10	67	743	6	127	753	9	99	743	10	72	758	7	126	725	9	71	740	11	100	737	6	113	738	11	107	739	10
+																																							
+																																							
+																																							
